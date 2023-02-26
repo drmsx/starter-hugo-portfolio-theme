@@ -9,7 +9,7 @@ summary: |-
 draft: false
 featured: true
 tags:
-  - NEW
+  - NLP
 categories: []
 image:
   filename: ""
