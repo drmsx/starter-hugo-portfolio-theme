@@ -4,7 +4,7 @@ subtitle: ""
 date: 2023-02-26T12:34:42.366Z
 summary: "![](what_is_image_processing.jpg.avif)"
 draft: false
-featured: true
+featured: false
 tags:
   - NLP
 categories: []
