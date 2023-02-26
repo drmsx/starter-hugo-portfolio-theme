@@ -8,6 +8,6 @@ featured: false
 image:
   filename: istockphoto-1336524166-170667a.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 tetwtwtwe
