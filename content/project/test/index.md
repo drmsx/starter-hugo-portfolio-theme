@@ -14,7 +14,7 @@ categories: []
 image:
   filename: ""
   focal_point: top
-  preview_only: true
+  preview_only: false
 ---
 **This is my new research**
 
