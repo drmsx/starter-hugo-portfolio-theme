@@ -2,10 +2,7 @@
 title: My new research
 subtitle: ""
 date: 2023-02-26T12:34:42.366Z
-summary: |-
-  
-
-  ![](istockphoto-1336524166-170667a.jpg)
+summary: "![](what_is_image_processing.jpg.avif)"
 draft: false
 featured: true
 tags:
