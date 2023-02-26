@@ -4,6 +4,8 @@ date: 2023-02-26T12:49:20.421Z
 summary: '![](what_is_image_processing.jpg.avif "new image")'
 draft: false
 featured: false
+tags:
+  - NLP
 image:
   filename: featured
   focal_point: Smart
